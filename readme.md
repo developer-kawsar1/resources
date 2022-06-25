@@ -65,6 +65,18 @@ module.exports = {
 @tailwind utilities;
 ```
 
+# Daisy ui
+1. Install
+```hs
+npm i daisyui
 
+```
+2.Then add daisyUI to  tailwind.config.js files:
+```hs
+module.exports = {
+  //...
+  plugins: [require("daisyui")],
+}
+```
 
 
