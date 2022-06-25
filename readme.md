@@ -57,5 +57,14 @@ module.exports = {
   plugins: [],
 }
 ```
+3. Msin css file এর মধ্যে ডাইরেক্টিভ এড করা 
+
+```hs
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+
 
 
