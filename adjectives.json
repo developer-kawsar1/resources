@@ -262,4 +262,484 @@
     "banan": "বিউটিফুল",
     "bangla":" সুন্দর"
     
+  },{
+   
+    "english":" Poor",
+    "banan": "পও (র)",
+    "bangla":" দরিদ্র"
+    
+  },{
+   
+    "english":" Rich",
+    "banan": "রিচ",
+    "bangla":" ধনী"
+    
+  },{
+   
+    "english":" Idiotic",
+    "banan": "ইডিওটিক",
+    "bangla":" জড়বুদ্ধিগ্রস্ত"
+    
+  },{
+   
+    "english":" Wise",
+    "banan": "অয়াইজ",
+    "bangla":" জ্ঞানী"
+    
+  },{
+   
+    "english":" Clever",
+    "banan": "ক্লেভা (র)",
+    "bangla":" চালাক"
+    
+  },{
+   
+    "english":" Gentle",
+    "banan": "জেন্টল",
+    "bangla":" ভদ্র"
+    
+  },{
+   
+    "english":" Rude",
+    "banan": "রুড",
+    "bangla":" অভদ্র"
+    
+  },{
+   
+    "english":" Kind",
+    "banan": "কাইন্ড",
+    "bangla":" দয়ালু"
+    
+  },{
+   
+    "english":" Timid",
+    "banan": "টিমিড",
+    "bangla":" ভীরু"
+    
+  },{
+   
+    "english":" Cruel",
+    "banan": "ক্রুয়েল",
+    "bangla":" নিষ্ঠুর"
+    
+  },{
+   
+    "english":" Happy",
+    "banan": "হ্যাপি",
+    "bangla":" সুখী"
+    
+  },{
+   
+    "english":" Unhappy",
+    "banan": "আনহ্যাপি",
+    "bangla":" অসুখী"
+    
+  },{
+   
+    "english":" Old",
+    "banan": "ওল্ড",
+    "bangla":" বৃদ্ধ"
+    
+  },{
+   
+    "english":" Young",
+    "banan": "ইয়ং",
+    "bangla":" তরুণ"
+    
+  },{
+   
+    "english":" Diligent",
+    "banan": "ডিলিজেন্ট",
+    "bangla":" পরিশ্রমী"
+    
+  },{
+   
+    "english":" Idle, Lazy",
+    "banan": "আইডল, লেজি",
+    "bangla":" অলস"
+    
+  },{
+   
+    "english":" Foolish",
+    "banan": "ফুলিশ",
+    "bangla":" নির্বোধ"
+    
+  },{
+   
+    "english":" Intelligent",
+    "banan": "ইনটেলিজেন্ট",
+    "bangla":" বুদ্ধিমান"
+    
+  },{
+   
+    "english":" Modest",
+    "banan": "মাডেস্ট",
+    "bangla":" বিনয়ী"
+    
+  },{
+   
+    "english":" Noble",
+    "banan": "নোবল",
+    "bangla":" মহৎ"
+    
+  },{
+   
+    "english":" Innocent",
+    "banan": "ইনোসেন্ট",
+    "bangla":" নির্দোষ"
+    
+  },{
+   
+    "english":" Naughty",
+    "banan": "নটি",
+    "bangla":" দুষ্টু"
+    
+  },{
+   
+    "english":" Wicked",
+    "banan": "উইকেড",
+    "bangla":" দুর্নীতিপরায়ণ/ বদমাইশ"
+    
+  },{
+   
+    "english":" Proud",
+    "banan": "প্রাউড",
+    "bangla":" গর্বিত"
+    
+  },{
+   
+    "english":" Disobedient",
+    "banan": "ডিসওবিডিয়েন্ট",
+    "bangla":" অবাধ্য"
+    
+  },{
+   
+    "english":" Obedient",
+    "banan": "ওবিডিয়েন্ট",
+    "bangla":" বাধ্য"
+    
+  },{
+   
+    "english":" False",
+    "banan": "ফলস",
+    "bangla":" মিথ্যা"
+    
+  },{
+   
+    "english":" True",
+    "banan": "ট্রু",
+    "bangla":" সত্য"
+    
+  },{
+   
+    "english":" Liar",
+    "banan": "লায়া (র)",
+    "bangla":" মিথ্যাবাদী"
+    
+  },{
+   
+    "english":" Truthful",
+    "banan": "ট্রুথফুল",
+    "bangla":" সত্যবাদী"
+    
+  },{
+   
+    "english":" Faithful",
+    "banan": "ফেইথফুল",
+    "bangla":" বিশ্বাসী"
+    
+  },{
+   
+    "english":" Dishonest",
+    "banan": "ডিজঅনেস্ট",
+    "bangla":" অসৎ"
+    
+  },{
+   
+    "english":" Healthy",
+    "banan": "হেলদি",
+    "bangla":" স্বাস্থ্যবান"
+    
+  },{
+   
+    "english":" Weak",
+    "banan": "উইক",
+    "bangla":" দুর্বল"
+    
+  },{
+   
+    "english":" Sickly",
+    "banan": "সিকলি",
+    "bangla":" রুগ্ন"
+    
+  },{
+   
+    "english":" Ill",
+    "banan": "ইল",
+    "bangla":" অসুস্ত"
+    
+  },{
+   
+    "english":" Lame",
+    "banan": "লেইম",
+    "bangla":" খোঁড়া"
+    
+  },{
+   
+    "english":" Deaf",
+    "banan": "ডীফ",
+    "bangla":" কালা"
+    
+  },{
+   
+    "english":" Blind",
+    "banan": "ব্লাইন্ড",
+    "bangla":" অন্ধ"
+    
+  },{
+   
+    "english":" Dumb",
+    "banan": "ডাম",
+    "bangla":" বোবা"
+    
+  },{
+   
+    "english":" Mad",
+    "banan": "ম্যাড",
+    "bangla":" পাগল"
+    
+  },{
+   
+    "english":" Worthy",
+    "banan": "ওয়ার্দি",
+    "bangla":" যোগ্য"
+    
+  },{
+   
+    "english":" Wealthy",
+    "banan": "ওয়েলদি",
+    "bangla":" সম্পদশালী"
+    
+  },{
+   
+    "english":" Careful",
+    "banan": "কেয়া(র)ফুল",
+    "bangla":" সতর্ক"
+    
+  },{
+   
+    "english":" Careless",
+    "banan": "কেয়া(র)লেস",
+    "bangla":" অসতর্ক"
+    
+  },{
+   
+    "english":" Greedy",
+    "banan": "গ্রীডি",
+    "bangla":" লোভী"
+    
+  },{
+   
+    "english":" Angry",
+    "banan": "অ্যাংরি",
+    "bangla":" ক্রুদ্ধ"
+    
+  },{
+   
+    "english":" Hopeless",
+    "banan": "হোপলেস",
+    "bangla":" আশাহীন"
+    
+  },{
+   
+    "english":" Busy",
+    "banan": "বিজি",
+    "bangla":" ব্যস্ত"
+    
+  },{
+   
+    "english":" Holy",
+    "banan": "হোলি",
+    "bangla":" পবিত্র"
+    
+  },{
+   
+    "english":" Hungry",
+    "banan": "হাংরি",
+    "bangla":" ক্ষুধার্ত"
+    
+  },{
+   
+    "english":" Thirsty",
+    "banan": "থাস্টি",
+    "bangla":" তৃষ্ণার্ত"
+    
+  },{
+   
+    "english":" Pure",
+    "banan": "পীও(র)",
+    "bangla":" খাঁটি"
+    
+  },{
+   
+    "english":" Impure",
+    "banan": "ইমপিও (র)",
+    "bangla":" ভেজাল"
+    
+  },{
+   
+    "english":" Wild",
+    "banan": "ওয়াইল্ড",
+    "bangla":" বন্য"
+    
+  },{
+   
+    "english":" Tame",
+    "banan": "টেইম",
+    "bangla":" পোষা"
+    
+  },{
+   
+    "english":" Light",
+    "banan": "লাইট",
+    "bangla":" হাল্কা"
+    
+  },{
+   
+    "english":" Heavy",
+    "banan": "হেভি",
+    "bangla":" ভারী"
+    
+  },{
+   
+    "english":" Coarse",
+    "banan": "কোর্স",
+    "bangla":" মোটা"
+    
+  },{
+   
+    "english":" Cheap",
+    "banan": "চীপ",
+    "bangla":" সস্তা"
+    
+  },{
+   
+    "english":" Sharp",
+    "banan": "শার্প",
+    "bangla":" ধারালো"
+    
+  },{
+   
+    "english":" Harmful",
+    "banan": "হাম্ফুল",
+    "bangla":" ক্ষতিকর"
+    
+  },{
+   
+    "english":" Harmful",
+    "banan": "হাম্ফুল",
+    "bangla":" ক্ষতিকর"
+    
+  },{
+   
+    "english":" Valuable",
+    "banan": "ভ্যালুয়েবল",
+    "bangla":" দামী"
+    
+  },{
+   
+    "english":" Useful",
+    "banan": "ইউজফুল",
+    "bangla":" উপকারী"
+    
+  },{
+   
+    "english":" Illiterate",
+    "banan": "ইলিটারেট",
+    "bangla":" নিরক্ষর"
+    
+  },{
+   
+    "english":" Literate",
+    "banan": "লিটারেট",
+    "bangla":" সাক্ষর"
+    
+  },{
+   
+    "english":" Color",
+    "banan": "কালাড়",
+    "bangla":" রঙিন"
+    
+  },{
+   
+    "english":" Red",
+    "banan": "রেড",
+    "bangla":" লাল"
+    
+  },{
+   
+    "english":" White",
+    "banan": "ওয়াইট",
+    "bangla":" সাদা "
+    
+  },{
+   
+    "english":" Green",
+    "banan": "গ্রীন",
+    "bangla":" সবুজ"
+    
+  },{
+   
+    "english":" White",
+    "banan": "ওয়াইট",
+    "bangla":" সাদা"
+    
+  },{
+   
+    "english":" Black",
+    "banan": "ব্লাক",
+    "bangla":" কালো"
+    
+  },{
+   
+    "english":" Blue",
+    "banan": "ব্লু",
+    "bangla":" নীল"
+    
+  },{
+   
+    "english":" Violet",
+    "banan": "ভায়োলেট",
+    "bangla":" বেগুনী"
+    
+  },{
+   
+    "english":" Crimson",
+    "banan": "ক্রিমসন",
+    "bangla":" টকটকে লাল / রক্তিম"
+    
+  },{
+   
+    "english":" Pink/ Rosy",
+    "banan": "পিঙ্ক/ রোজি",
+    "bangla":" গোলাপী"
+    
+  },{
+   
+    "english":" Brown",
+    "banan": "ব্রাউন",
+    "bangla":" বাদামী"
+    
+  },{
+   
+    "english":" Grey",
+    "banan": "গ্রে ",
+    "bangla":" ধুসর"
+    
+  },{
+   
+    "english":" Bright",
+    "banan": "ব্রাইট",
+    "bangla":" উজ্জ্বল"
+    
   },
