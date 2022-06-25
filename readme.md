@@ -18,3 +18,19 @@ index.js ফাইলে
       <App />
     </BrowserRouter>
 ```
+index.js ফাইলে Import করতে হবে 
+```hs
+import { BrowserRouter } from "react-router-dom";
+```
+
+App.js ফাইলে 
+```hs
+<Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="about" element={<About />} />
+   </Routes>
+```
+App.js ফাইলে import করতে হবে 
+```hs
+import { Routes, Route } from "react-router-dom";
+```
