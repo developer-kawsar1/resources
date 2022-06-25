@@ -42,8 +42,20 @@ import { Routes, Route } from "react-router-dom";
 ```
 
 # tailwinnd css
-1. Install
+1. Install and create tailwind cinfig js file
 ```hs
 npm install -D tailwindcss
 npx tailwindcss init
 ```
+2. Edit tailwind config js file
+```hs
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
+
