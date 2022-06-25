@@ -6,13 +6,14 @@
 ```hs
  npx create-react-app appname
 ```
-রিয়েক্ট রাউটার ইন্সটল
+# Router
+1. রিয়েক্ট রাউটার ইন্সটল
 
 ```hs
 npm install react-router-dom@6
 
 ```
-index.js ফাইলে
+2. index.js ফাইলে
 ```hs
     <BrowserRouter>
       <App />
@@ -23,14 +24,26 @@ index.js ফাইলে Import করতে হবে
 import { BrowserRouter } from "react-router-dom";
 ```
 
-App.js ফাইলে 
+3. App.js ফাইলে রাউট সেট করা
 ```hs
 <Routes>
         <Route path="/" element={<Home />} />
         <Route path="about" element={<About />} />
-   </Routes>
+ </Routes>
 ```
 App.js ফাইলে import করতে হবে 
 ```hs
 import { Routes, Route } from "react-router-dom";
+```
+4. মেনুতে দেখানো 
+```hs
+<Link to="/">Home</Link>
+ <Link to="about">About</Link>
+```
+
+# tailwinnd css
+1. Install
+```hs
+npm install -D tailwindcss
+npx tailwindcss init
 ```
