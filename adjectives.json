@@ -1,0 +1,265 @@
+{
+   
+    "english":" Good",
+    "banan": "গুড",
+    "bangla":" ভালো"
+    
+  },{
+   
+    "english":" Bad",
+    "banan": "ব্যাড",
+    "bangla":" মন্দ"
+    
+  },{
+   
+    "english":" Hot",
+    "banan": "হট",
+    "bangla":" গরম"
+    
+  },{
+   
+    "english":" Cold",
+    "banan": "কোল্ড",
+    "bangla":" ঠাণ্ডা"
+    
+  },{
+   
+    "english":" Small",
+    "banan": "স্মল",
+    "bangla":" ছোট"
+    
+  },{
+   
+    "english":" Large",
+    "banan": "লাজ",
+    "bangla":" বড়"
+    
+  },{
+   
+    "english":" Long",
+    "banan": "লঙ",
+    "bangla":" লম্বা"
+    
+  },{
+   
+    "english":" Short",
+    "banan": "শট",
+    "bangla":" খাটো"
+    
+  },{
+   
+    "english":" Broad",
+    "banan": "ব্রড",
+    "bangla":" চওড়া"
+    
+  },{
+   
+    "english":" Narrow",
+    "banan": "ন্যারো",
+    "bangla":" সরু"
+    
+  },{
+   
+    "english":" Soft",
+    "banan": "সফট",
+    "bangla":" নরম/ কোমল"
+    
+  },{
+   
+    "english":" Hard",
+    "banan": "হাড",
+    "bangla":" সক্ত"
+    
+  },{
+   
+    "english":" New",
+    "banan": "নিউ",
+    "bangla":" নতুন"
+    
+  },{
+   
+    "english":" Curve",
+    "banan": "কাভড",
+    "bangla":" বাঁকা"
+    
+  },{
+   
+    "english":" Straight",
+    "banan": "স্ট্রেইট",
+    "bangla":" সোজা"
+    
+  },{
+   
+    "english":" Lean",
+    "banan": "লিন",
+    "bangla":" রোগা"
+    
+  },{
+   
+    "english":" Fat",
+    "banan": "ফ্যাট",
+    "bangla":" মোটা"
+    
+  },{
+   
+    "english":" Thin",
+    "banan": "থিন",
+    "bangla":" পাতলা"
+    
+  },{
+   
+    "english":" Thick",
+    "banan": "থিক",
+    "bangla":" পুরু"
+    
+  },{
+   
+    "english":" Short/ Dwarf",
+    "banan": " শট/ ডোয়াফ",
+    "bangla":" বেঁটে"
+    
+  },{
+   
+    "english":" Tall",
+    "banan": "লম্বা",
+    "bangla":" উপরের দিকে লম্বা"
+    
+  },{
+   
+    "english":" Wet",
+    "banan": "ওয়েট",
+    "bangla":" ভিজা"
+    
+  },{
+   
+    "english":" Dry",
+    "banan": "ড্রাই",
+    "bangla":" শুস্ক"
+    
+  },{
+   
+    "english":" Deep",
+    "banan": "ডীপ",
+    "bangla":" গভীর"
+    
+  },{
+   
+    "english":" Shallow",
+    "banan": "শ্যালো",
+    "bangla":" অগভীর"
+    
+  },{
+   
+    "english":" Full",
+    "banan": "ফুল",
+    "bangla":" পূর্ণ"
+    
+  },{
+   
+    "english":" Empty",
+    "banan": "এমটি",
+    "bangla":" খালি"
+    
+  },{
+   
+    "english":" Ripe",
+    "banan": "রাইপ",
+    "bangla":" পাকা"
+    
+  },{
+   
+    "english":" Green",
+    "banan": "গ্রীন",
+    "bangla":" কাঁচা"
+    
+  },{
+   
+    "english":" Sweet",
+    "banan": "সুইট",
+    "bangla":" মিষ্টি"
+    
+  },{
+   
+    "english":" Sour",
+    "banan": "সাওয়া (র)",
+    "bangla":" টক"
+    
+  },{
+   
+    "english":" Salted",
+    "banan": "সলটিড",
+    "bangla":" নোনতা"
+    
+  },{
+   
+    "english":" Tasteful",
+    "banan": "টেইস্টফুল",
+    "bangla":" সুস্বাদু"
+    
+  },{
+   
+    "english":" Tasteless",
+    "banan": "টেইস্টলেস",
+    "bangla":" বিস্বাদ"
+    
+  },{
+   
+    "english":" Fresh",
+    "banan": "ফ্রেশ",
+    "bangla":" টাটকা"
+    
+  },{
+   
+    "english":" Stale",
+    "banan": "স্টেইল",
+    "bangla":" বাসি"
+    
+  },{
+   
+    "english":" Rotten",
+    "banan": "রাটন",
+    "bangla":" পচা"
+    
+  },{
+   
+    "english":" Fried",
+    "banan": "ফ্রিাইড",
+    "bangla":" ভাজা"
+    
+  },{
+   
+    "english":" Boiled",
+    "banan": "বয়িলড",
+    "bangla":" সিদ্ধ"
+    
+  },{
+   
+    "english":" Clean",
+    "banan": "ক্লীন",
+    "bangla":" পরিষ্কার"
+    
+  },{
+   
+    "english":" Dirty ",
+    "banan": " ডাটি",
+    "bangla":"  ময়লা, নোংরা"
+    
+  },{
+   
+    "english":" Nice",
+    "banan": "নাইস",
+    "bangla":" সুন্দর"
+    
+  },{
+   
+    "english":" Ugly",
+    "banan": "আগলি",
+    "bangla":" কুৎসিত"
+    
+  },{
+   
+    "english":" Beautiful",
+    "banan": "বিউটিফুল",
+    "bangla":" সুন্দর"
+    
+  },
