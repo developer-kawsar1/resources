@@ -40,7 +40,39 @@ import { Routes, Route } from "react-router-dom";
 <Link to="/">Home</Link>
  <Link to="about">About</Link>
 ```
+5. Private route
+```hs 
+<Route path='/orders' 
+   element={
+          <RequireAuth>
+            <Orders></Orders>
+          </RequireAuth>
+        }>
+</Route>
 
+
+```
+6. Require Auth
+```hs 
+import { getAuth } from 'firebase/auth';
+import React from 'react';
+import { useAuthState } from 'react-firebase-hooks/auth';
+import { Navigate, useLocation } from 'react-router-dom';
+import app from '../../firebase.init';
+
+const auth = getAuth(app);
+
+const RequireAuth = ({children}) => {
+    const [user] = useAuthState(auth);
+    const location = useLocation();
+    if(!user){
+        return <Navigate to="/login" state={{ from: location }} replace />;
+    }
+    return children;
+};
+
+export default RequireAuth;
+```
 # tailwinnd css
 1. Install and create tailwind cinfig js file
 ```hs
