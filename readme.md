@@ -105,7 +105,7 @@ module.exports = {
 ```hs
 npm i daisyui
 
-```
+```hs
 2.Then add daisyUI to  tailwind.config.js files:
 ```hs
 module.exports = {
@@ -114,4 +114,13 @@ module.exports = {
 }
 ```
 
+# React firebase hook
 
+1.google login import
+```
+import { useCreateUserWithEmailAndPassword, useSignInWithGoogle, useUpdateProfile } from 'react-firebase-hooks/auth';
+```
+2.google login hook
+```hs
+const [signInWithGoogle, gUser, gLoading, gError] = useSignInWithGoogle(auth);
+```
