@@ -1,0 +1,304 @@
+[
+
+ {
+   
+    "english":" I go",
+    "banan": "আই গো",
+    "bangla":" আমি যাই"
+    
+  },{
+   
+    "english":" I come",
+    "banan": "আই কাম",
+    "bangla":" আমি আসি"
+    
+  },{
+   
+    "english":" I sleep",
+    "banan": "আই স্লীপ",
+    "bangla":" আমি ঘুমাই"
+    
+  },{
+   
+    "english":" I take",
+    "banan": "আই টো",
+    "bangla":" আমি নেই"
+    
+  },{
+   
+    "english":" I give",
+    "banan": "আই গিভ",
+    "bangla":" আমি দেই"
+    
+  },{
+   
+    "english":" I help",
+    "banan": "আই হেল্প",
+    "bangla":" আমি সাহায্য করি"
+    
+  },{
+   
+    "english":" I play",
+    "banan": "আই প্লে",
+    "bangla":" আমি খেলি"
+    
+  },{
+   
+    "english":" I use",
+    "banan": "আই ইউজ",
+    "bangla":" আমি ব্যবহার করি"
+    
+  },{
+   
+    "english":" i eat",
+    "banan": "আই ইট",
+    "bangla":" আমি খাই"
+    
+  },{
+   
+    "english":" I drink",
+    "banan": "আই ড্রিংক",
+    "bangla":" আমি পান করি"
+    
+  },{
+   
+    "english":" We go",
+    "banan": "উই গো",
+    "bangla":" আমরা যাই"
+    
+  },{
+   
+    "english":" We Come ",
+    "banan": "উই কাম",
+    "bangla":" আমরা আসি"
+    
+  },{
+   
+    "english":" We sleep",
+    "banan": "উই স্লীপ",
+    "bangla":" আমরা ঘুমাই"
+    
+  },{
+   
+    "english":" We take",
+    "banan": "উই টেইক",
+    "bangla":" আমরা নেই"
+    
+  },{
+   
+    "english":" We give",
+    "banan": "উই গিভ",
+    "bangla":" আমরা দেই"
+    
+  },{
+   
+    "english":" We help",
+    "banan": "উই হেল্প",
+    "bangla":" আমরা সাহায্য করি"
+    
+  },{
+   
+    "english":" We play",
+    "banan": "উই প্লে",
+    "bangla":" আমরা খেলি"
+    
+  },{
+   
+    "english":" We use",
+    "banan": "উই ইউজ",
+    "bangla":" আমরা ব্যবহার করি"
+    
+  },{
+   
+    "english":" We eat",
+    "banan": "উই ইট",
+    "bangla":" আমরা খাই"
+    
+  },{
+   
+    "english":" We drink",
+    "banan": "উই ড্রিংক",
+    "bangla":" আমরা পান করি"
+    
+  },{
+   
+    "english":" They go",
+    "banan": "দে গো",
+    "bangla":" তারা যায়"
+    
+  },{
+   
+    "english":" They come",
+    "banan": "দে কাম",
+    "bangla":" তারা আসে"
+    
+  },{
+   
+    "english":" They sleep",
+    "banan": "দে স্লীপ",
+    "bangla":" তারা ঘুমায়"
+    
+  },{
+   
+    "english":" They take",
+    "banan": "দে টেক",
+    "bangla":" তারা নেয়"
+    
+  },{
+   
+    "english":" They give",
+    "banan": "দে গীভ",
+    "bangla":" তারা দেয়"
+    
+  },{
+   
+    "english":" They help",
+    "banan": "দে হেল্প",
+    "bangla":" তারা সাহায্য করে"
+    
+  },{
+   
+    "english":" They play",
+    "banan": "দে প্লে",
+    "bangla":" তারা খেলে"
+    
+  },{
+   
+    "english":" They use",
+    "banan": "দে ইউজ",
+    "bangla":" তারা ব্যবহার করে"
+    
+  },{
+   
+    "english":" They eat",
+    "banan": "দে ইট",
+    "bangla":" তারা খায়"
+    
+  },{
+   
+    "english":" They drink ",
+    "banan": "দে ড্রিংক ",
+    "bangla":" তারা পান করে"
+    
+  },{
+   
+    "english":" You go",
+    "banan": "ইউ গো",
+    "bangla":" তুমি যাও"
+    
+  },{
+   
+    "english":" you come",
+    "banan": "ইউ কাম",
+    "bangla":" তুমি আসো"
+    
+  },{
+   
+    "english":" ইউ স্লীপ",
+    "banan": "ইউ স্লীপ",
+    "bangla":" তুমি ঘুমাও"
+    
+  },{
+   
+    "english":" You take",
+    "banan": "ইউ টেক",
+    "bangla":" তুমি নেও"
+    
+  },{
+   
+    "english":" You give ",
+    "banan": "ইউ গিভ",
+    "bangla":" তুমি দেও"
+    
+  },{
+   
+    "english":" You help ",
+    "banan": "ইউ হেল্প",
+    "bangla":" তুমি সাহায্য করো"
+    
+  },{
+   
+    "english":" You",
+    "banan": "play",
+    "bangla":" তুমি খেলো"
+    
+  },{
+   
+    "english":" You use",
+    "banan": "ইউ ইউজ",
+    "bangla":" তুমি ব্যবহার করো"
+    
+  },{
+   
+    "english":" You eat",
+    "banan": "ইউ ইট",
+    "bangla":" তুমি খাও"
+    
+  },{
+   
+    "english":" You drink",
+    "banan": "ইউ ড্রিংক",
+    "bangla":" তুমি পান করো"
+    
+  },{
+   
+    "english":" You go ",
+    "banan": "ইউ গো",
+    "bangla":" তোমরা যাও"
+    
+  },{
+   
+    "english":" You come",
+    "banan": "ইউ কাম",
+    "bangla":" তোমরা আসো"
+    
+  },{
+   
+    "english":" You sleep",
+    "banan": "ইউ স্লীপ",
+    "bangla":" তোমরা ঘুমাও"
+    
+  },{
+   
+    "english":" You take",
+    "banan": "ইউ টেক",
+    "bangla":" তোমরা নেও"
+    
+  },{
+   
+    "english":" You give",
+    "banan": "ইউ গিভ",
+    "bangla":" তোমরা দেও"
+    
+  },{
+   
+    "english":" You help ",
+    "banan": "ইউ হেল্প ",
+    "bangla":" তোমরা সাহায্য করো"
+    
+  },{
+   
+    "english":" You play",
+    "banan": "ইউ প্লে",
+    "bangla":" তোমরা খেলো"
+    
+  },{
+   
+    "english":" You use",
+    "banan": "ইউ ইউজ",
+    "bangla":" তোমরা ব্যবহার করো"
+    
+  },{
+   
+    "english":" You eat",
+    "banan": "ইউ ইট",
+    "bangla":" তোমরা খাও"
+    
+  },{
+   
+    "english":" You drink",
+    "banan": "ইউ ড্রিংক",
+    "bangla":" তোমরা পান করো"
+    
+  }
+]
