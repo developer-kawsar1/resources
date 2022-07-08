@@ -105,7 +105,7 @@ module.exports = {
 ```hs
 npm i daisyui
 
-```hs 
+```
 
 2.Then add daisyUI to  tailwind.config.js files:
 ```hs
