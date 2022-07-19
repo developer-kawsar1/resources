@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+
+  <style>
+    .modal {
+      display: none;
+      position: fixed;
+      padding-top: 50px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgb(0, 0, 0);
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-content {
+      position: relative;
+      background-color: white;
+      padding: 20px;
+      margin: auto;
+      width: 75%;
+      -webkit-animation-name: animatetop;
+      -webkit-animation-duration: 0.4s;
+      animation-name: animatetop;
+      animation-duration: 0.4s;
+      border-radius: 10px;
+    }
+
+    .close-btn {
+      float: right;
+      color: lightgray;
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .close-btn:hover {
+      color: darkgray;
+    }
+
+    @-webkit-keyframes animatetop {
+      from {
+        top: -300px;
+        opacity: 0
+      }
+
+      to {
+        top: 0;
+        opacity: 1
+      }
+    }
+
+    @keyframes animatetop {
+      from {
+        top: -300px;
+        opacity: 0
+      }
+
+      to {
+        top: 0;
+        opacity: 1
+      }
+    }
+
+    .form-group {
+      margin-bottom: 10px;
+      display: flex;
+    }
+
+    .form-group label {
+      width: 15vw;
+      display: inline-block;
+      font-weight: bold;
+      font-size: 13px;
+    }
+
+    .form-group input,
+    select {
+      display: inline-block;
+      flex: 1;
+      padding: 8px;
+      outline: 0;
+      font-weight: bold;
+    }
+
+    button[type="submit"] {
+      display: block;
+      width: 100%;
+      padding: 8px;
+      font-weight: bold;
+      text-align: center;
+      border-radius: 4px;
+      color: #fff;
+      background: crimson;
+      border: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <button id="modal-btn"> click me, I make a modal</button>
+  <h3>hello</h3>
+  <h3>oknbd</h3>
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-btn">&times;</span>
+
+    </div>
+    <div class="modal-content">
+      <p>this is the text inside the modal</p>
+      <form onsubmit="event.preventDefault();">
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input type="text" placeholder="write donor name" id="name">
+        </div>
+        <div class="form-group">
+          <label for="group">Group</label>
+          <select name="" id="group">
+
+            <option value="" disabled="disabled" selected>Select blood group</option>
+               <option value="a+">A+</option>
+            <option value="a-">A-</option>
+            <option value="b+">B+</option>
+            <option value="b-">B-</option>
+            <option value="ab+">AB+</option>
+            <option value="ab-">AB-</option>
+            <option value="o+">O+</option>
+            <option value="o-">O-</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="address">Address</label>
+          <input type="text" placeholder="write donor address" id="address">
+
+
+        </div>
+        <div class="form-group">
+          <label for="phone">Phone</label>
+          <input type="text" placeholder="write donor phone" id="phone">
+
+
+        </div>
+
+        <div class="form-group">
+          <label for="date">Last donate </label>
+          <input type="date" name="" id="donation-date">
+
+        </div>
+
+        <div>
+          <button type="submit" onclick="submitForm()">SUBubmit</button>
+        </div>
+
+
+      </form>
+    </div>
+    <div class="modal-footer">
+
+    </div>
+  </div>
+
+  <script>
+    let modalBtn = document.getElementById("modal-btn")
+    let modal = document.querySelector(".modal")
+    let closeBtn = document.querySelector(".close-btn")
+    modalBtn.onclick = function() {
+      modal.style.display = "block"
+    }
+    closeBtn.onclick = function() {
+      modal.style.display = "none"
+    }
+    window.onclick = function(e) {
+      if (e.target == modal) {
+        modal.style.display = "none"
+      }
+    }
+
+    function submitForm() {
+      const name = document.getElementById('name').value
+      const address = document.getElementById('address').value
+
+      const phone = document.getElementById('phone').value
+      
+      //select value
+      
+   var select = document.getElementById('group');
+var blood = select.options[select.selectedIndex].value;
+//console.log(value); // en
+const date=document.getElementById('donation-date').value
+      
+      
+      const donor = {
+        name, 
+        blood,
+        date,
+        address, 
+        phone }
+      
+      fetch('https://donor-server.herokuapp.com/donors', {
+          method: 'POST',
+          body: JSON.stringify(donor),
+          headers: {
+            'Content-type': 'application/json; charset=UTF-8',
+          },
+        })
+        .then((response) => response.json())
+        .then((json) =>
+        {
+          console.log(json)
+          location.reload()
+      
+        });
+      console.log(donor)
+      //   location.reload()
+      //  modal.style.display='none'
+    }
+  </script>
+
+</body>
+
+</html>
