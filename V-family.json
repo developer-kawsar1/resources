@@ -1,0 +1,388 @@
+[
+{
+   
+    "english":" Uncle",
+    "banan": "আঙ্কেল",
+    "bangla":" চাচা, মামা, খালু, ফুফা"
+    
+  },{
+   
+    "english":" Aunt",
+    "banan": "আন্ট",
+    "bangla":" চাচী, মামী, খালা, ফুফু"
+    
+  },{
+   
+    "english":" Adopted-Son",
+    "banan": "অ্যাডপটেড-সন",
+    "bangla":" পোষ্যপুত্র"
+    
+  },{
+   
+    "english":" Adopted-Daughter",
+    "banan": "অ্যাডপটেড-ডটার",
+    "bangla":" পোষ্যকন্যা"
+    
+  },{
+   
+    "english":" Boy",
+    "banan": "বয়",
+    "bangla":" বালক"
+    
+  },{
+   
+    "english":" Baby",
+    "banan": "বেবী",
+    "bangla":" শিশু"
+    
+  },{
+   
+    "english":" Brother",
+    "banan": "ব্রাদার",
+    "bangla":" ভাই"
+    
+  },{
+   
+    "english":" Brother-in-Law",
+    "banan": "ব্রাদার-ইন-ল",
+    "bangla":" শালক"
+    
+  },{
+   
+    "english":" Bridegroom",
+    "banan": "ব্রাইডগ্র“ম",
+    "bangla":" বর"
+    
+  },{
+   
+    "english":" Bachelor",
+    "banan": "ব্যাচেলর",
+    "bangla":" অবিবাহিত পুরুষ"
+    
+  },{
+   
+    "english":" Child",
+    "banan": "চাইল্ড",
+    "bangla":" সন্তান, শিশু"
+    
+  },{
+   
+    "english":" Cousin",
+    "banan": "কাজিন",
+    "bangla":" মামাত/খালাত/চাচাত/ফুফাত ভাইবোন"
+    
+  },{
+   
+    "english":" Concubine",
+    "banan": "কনকিউবাইন",
+    "bangla":" উপপত্নী"
+    
+  },{
+   
+    "english":" Childhood",
+    "banan": "চাইল্ডহোড",
+    "bangla":" শৈশব"
+    
+  },{
+   
+    "english":" Co-wife",
+    "banan": "কো-ওয়াইফ",
+    "bangla":" সতীন"
+    
+  },{
+   
+    "english":" Daughter",
+    "banan": "ডটার",
+    "bangla":" কন্যা"
+    
+  },{
+   
+    "english":" Daughter-in-law",
+    "banan": "ডটার-ইন-ল",
+    "bangla":" পুত্রবধু"
+    
+  },{
+   
+    "english":" Descendant",
+    "banan": "ডিসেনডেন্ট",
+    "bangla":" বংশধর"
+    
+  },{
+   
+    "english":" Disciple",
+    "banan": "ডিসাইপল",
+    "bangla":" শিষ্য"
+    
+  },{
+   
+    "english":" Father",
+    "banan": "ফাদার",
+    "bangla":" পিতা"
+    
+  },{
+   
+    "english":" Friend",
+    "banan": "ফ্রেন্ড",
+    "bangla":" বন্ধু, বান্ধবী"
+    
+  },{
+   
+    "english":" Father-in-Law",
+    "banan": "ফাদার-ইন-ল",
+    "bangla":" শ^শুর"
+    
+  },{
+   
+    "english":" Foe",
+    "banan": "ফো",
+    "bangla":" শত্রু"
+    
+  },{
+   
+    "english":" Family ",
+    "banan": "ফ্যামিলী",
+    "bangla":" পরিবার"
+    
+  },{
+   
+    "english":" Female",
+    "banan": "ফিমেল",
+    "bangla":" মহিলা"
+    
+  },{
+   
+    "english":" Girl",
+    "banan": "গার্ল",
+    "bangla":" বালিকা"
+    
+  },{
+   
+    "english":" Guest",
+    "banan": "গেস্ট",
+    "bangla":" অতিথি"
+    
+  },{
+   
+    "english":" Gentleman",
+    "banan": "জেন্টলম্যান",
+    "bangla":" ভদ্রলোক"
+    
+  },{
+   
+    "english":" Grandfather",
+    "banan": "গ্রান্ডফাদার",
+    "bangla":" দাদা, নানা"
+    
+  },{
+   
+    "english":" Grandmother",
+    "banan": "গ্রান্ডমাদার",
+    "bangla":" দাদী, নানী"
+    
+  },{
+   
+    "english":" Grandson",
+    "banan": "গ্রান্ডসন",
+    "bangla":" নাতি"
+    
+  },{
+   
+    "english":" Granddaughter",
+    "banan": "গ্রান্ড-ডটার",
+    "bangla":" নাতনি"
+    
+  },{
+   
+    "english":" Guardian",
+    "banan": "গার্ডিয়ান",
+    "bangla":" অভিভাবক"
+    
+  },{
+   
+    "english":" Husband",
+    "banan": "হাসব্যান্ড",
+    "bangla":" স্বামী"
+    
+  },{
+   
+    "english":" Housewife",
+    "banan": "হাউজওয়াইফ",
+    "bangla":" গৃহিণী"
+    
+  },{
+   
+    "english":" Heir",
+    "banan": "এয়ার",
+    "bangla":" উত্তরাধিকারী"
+    
+  },{
+   
+    "english":" Householder",
+    "banan": "হাউজহোল্ডার",
+    "bangla":" গৃহকর্তা"
+    
+  },{
+   
+    "english":" Infant",
+    "banan": "ইনফ্যান্ট",
+    "bangla":" শিশু"
+    
+  },{
+   
+    "english":" Kinsman",
+    "banan": "কিনসম্যান",
+    "bangla":" স্বজন"
+    
+  },{
+   
+    "english":" Kinsman",
+    "banan": "কিনসম্যান",
+    "bangla":" স্বজন"
+    
+  },{
+   
+    "english":" Lady",
+    "banan": "লেডি",
+    "bangla":" মহিলা"
+    
+  },{
+   
+    "english":" Man",
+    "banan": "ম্যান",
+    "bangla":" মানুষ"
+    
+  },{
+   
+    "english":" Maid",
+    "banan": "মেইড",
+    "bangla":" কুমারী"
+    
+  },{
+   
+    "english":" Male",
+    "banan": "মেল",
+    "bangla":" পুরুষ"
+    
+  },{
+   
+    "english":" Mother",
+    "banan": "মাদার",
+    "bangla":" মা"
+    
+  },{
+   
+    "english":" Mother-in-law",
+    "banan": "মাদার-ইন-ল",
+    "bangla":" শাশুড়ি"
+    
+  },{
+   
+    "english":" Midwife",
+    "banan": "মিডওয়াইফ",
+    "bangla":" ধাত্রী"
+    
+  },{
+   
+    "english":" Maternal Aunt",
+    "banan": "ম্যাটারন্যাল আন্ট",
+    "bangla":" মামী"
+    
+  },{
+   
+    "english":" Maternal Uncle",
+    "banan": "ম্যাটারন্যাল আংকল",
+    "bangla":" মামা"
+    
+  },{
+   
+    "english":" Niece",
+    "banan": "নীস",
+    "bangla":" ভ্রাতুষ্পত্রী, ভাগিনীয়, ভাইঝি"
+    
+  },{
+   
+    "english":" Nephew",
+    "banan": "নেফিউ",
+    "bangla":" ভ্রাতু®পুত্র, ভাগিনেয়, ভাতিজা"
+    
+  },{
+   
+    "english":" Neigh bour",
+    "banan": "নেইবার",
+    "bangla":" প্রতিবেশী"
+    
+  },{
+   
+    "english":" Parents",
+    "banan": "প্যারেন্টস",
+    "bangla":" পিতা-মাতা"
+    
+  },{
+   
+    "english":" Relative",
+    "banan": "রিলেটিভ",
+    "bangla":" আত্মীয়"
+    
+  },{
+   
+    "english":" Relative",
+    "banan": "রিলেটিভ",
+    "bangla":" আত্মীয়"
+    
+  },{
+   
+    "english":" Sister",
+    "banan": "সিস্টার",
+    "bangla":" বোন"
+    
+  },{
+   
+    "english":" Son",
+    "banan": "সন",
+    "bangla":" পুত্র"
+    
+  },{
+   
+    "english":" Servant",
+    "banan": "সারভেন্ট",
+    "bangla":" চাকর"
+    
+  },{
+   
+    "english":" Sister-in-law",
+    "banan": "সিস্টার-ইন-ল",
+    "bangla":" বেয়াইন, শ্যালিকা"
+    
+  },{
+   
+    "english":" Son-in-law",
+    "banan": "সান-ইন-ল",
+    "bangla":" জামাতা"
+    
+  },{
+   
+    "english":" Step-father",
+    "banan": "স্টেপ ফাদার",
+    "bangla":" সৎ বাবা"
+    
+  },{
+   
+    "english":" Step-Mother",
+    "banan": "স্টেপ মাদার",
+    "bangla":" সৎ মা"
+    
+  },{
+   
+    "english":" Uncle",
+    "banan": "আঙ্কেল",
+    "bangla":" চাচা, মামা, ফুফা"
+    
+  },{
+   
+    "english":" Wife",
+    "banan": "ওয়াইফ",
+    "bangla":" স্ত্রী"
+    
+  }
+
+]
